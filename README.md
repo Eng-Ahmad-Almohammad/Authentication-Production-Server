@@ -1,4 +1,4 @@
-# Permissions & Postgresql
+# Authentication & Production-Server
 ## Start time: 1:30 pm
 ## End time: 4:00 pm
 
